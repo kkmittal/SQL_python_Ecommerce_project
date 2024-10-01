@@ -1,4 +1,4 @@
-# pizza_sales--SQL
+# python_SQL_Ecommerce project
 Queries solved in this project:
 1. List all unique cities where customers are located.
 2. Count the number of orders placed in 2017.
